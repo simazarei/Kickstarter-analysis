@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise wants to know how different campaigns fared in relation to their launch dates and their funding goals. There are 4,014 different campaign between _2009_ to _2017_ took place throughout the world . We want to comb the data in favore of Louise's desire to run her campaign which has a budget of 10,000 $ and falls under _Theater_ Category.
+Louise wants to know how different campaigns fared in relation to their launch dates and their funding goals. There are 4,014 different campaign between _2009_ to _2017_ took place throughout the world . We want to comb the data in favore of Louise's desire to run her play _Fever_ campaign which has a budget of 10,000 $ and falls under _Theater_ Category.
 ### Purpose
 The purpose is to find out what makes a campaign project _Successful_ or _Failed_. We are going to visualize _Theater_ campaign which has three subcategories based on its launch dates and funding goals to deliver the outcome to Louise and help her within her choice of  setting her campaign budget, campaign goal and launch date of her _play_ campaign to make it successful.
 ## Analysis and Challenges
